@@ -9,5 +9,5 @@ in New Delhi and a comparison of it with weather treands globally.
 appointments. Using jupyter notebook, I cleaned the data, posed questions and analused the data to answer those questions. 
 
 
-**Project3:**The project was to help a company make decision about whether they want to implement a new design of their website page, goal being it should lead to 
+**Project3:** The project was to help a company make decision about whether they want to implement a new design of their website page, goal being it should lead to 
 more people singing up for the service. I used hypothesis testing and logistic regression to draw conclusions. 
