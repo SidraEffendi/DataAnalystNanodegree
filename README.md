@@ -6,7 +6,7 @@ in New Delhi and a comparison of it with weather treands globally.
 
 
 **Project2:** Here the goal was to perform EDA(exploratory data analysis) on database with details of pateints who are either missing or keeping with their medical
-appointments. Using jupyter notebook, I cleaned the data, posed questions and analused the data to answer those questions. 
+appointments. Using jupyter notebook, I cleaned the data, posed questions and analysed the data to answer those questions. 
 
 
 **Project3:** The project was to help a company make decision about whether they want to implement a new design of their website page, goal being it should lead to 
